@@ -1,0 +1,12 @@
+=== INICIO GA (DENSO) === genes=40 pop=18 gen=10 seed=123 rou=/root/sumo_project/osm_denso.rou.xml start_time=22:39:41
+[gen 00] best=482.68 avg=500.16 best_ever=482.68 elapsed=155s evals=18
+[gen 01] best=482.68 avg=496.13 best_ever=482.68 elapsed=307s evals=36
+[gen 02] best=482.68 avg=492.66 best_ever=482.68 elapsed=458s evals=54
+[gen 03] best=478.23 avg=490.60 best_ever=478.23 elapsed=607s evals=72
+[gen 04] best=477.02 avg=486.96 best_ever=477.02 elapsed=766s evals=90
+[gen 05] best=476.72 avg=485.68 best_ever=476.72 elapsed=926s evals=108
+[gen 06] best=475.12 avg=485.87 best_ever=475.12 elapsed=1116s evals=126
+[gen 07] best=475.12 avg=486.26 best_ever=475.12 elapsed=1290s evals=144
+[gen 08] best=475.04 avg=484.12 best_ever=475.04 elapsed=1453s evals=162
+[gen 09] best=475.04 avg=484.36 best_ever=475.04 elapsed=1600s evals=180
+=== FIN GA (DENSO) === best_fitness=475.04 total_time=1600s total_evals=180

@@ -1,0 +1,14 @@
+{
+  "tag": "moderado",
+  "scenario": "rl_adaptativo",
+  "model": "rl_multi_model_final.zip",
+  "fitness": 439.76992682926823,
+  "completed": 358,
+  "not_completed": 462,
+  "teleports": 161,
+  "mean_time_loss_completed": 219.50094972067038,
+  "mean_waiting_time": 180.7094972067039,
+  "vehicles_per_hour": 716.0,
+  "total_co2_kg": 239.73771536999993,
+  "mean_co2_g_per_vehicle": 669.6584228212289
+}

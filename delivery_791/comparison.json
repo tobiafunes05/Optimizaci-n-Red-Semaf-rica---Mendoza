@@ -1,0 +1,29 @@
+[
+  {
+    "label": "Baseline (actuado)",
+    "fitness": 402.36119512195125,
+    "completed": 410,
+    "teleports": 101,
+    "meanWait": 156.34878048780487,
+    "meanDur": 270.4219512195122,
+    "meanTimeLoss": 197.3321463414635
+  },
+  {
+    "label": "Static (orig. durations)",
+    "fitness": 384.40496341463415,
+    "completed": 433,
+    "teleports": 83,
+    "meanWait": 143.71131639722864,
+    "meanDur": 257.8706697459584,
+    "meanTimeLoss": 185.96321016166283
+  },
+  {
+    "label": "GA-optimizado",
+    "fitness": 370.741231707317,
+    "completed": 439,
+    "teleports": 85,
+    "meanWait": 125.24601366742597,
+    "meanDur": 239.16628701594533,
+    "meanTimeLoss": 165.96312072892917
+  }
+]

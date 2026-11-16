@@ -1,0 +1,13 @@
+{
+  "tag": "moderado",
+  "scenario": "tiempo_fijo_baseline",
+  "fitness": 384.40496341463415,
+  "completed": 433,
+  "not_completed": 387,
+  "teleports": 83,
+  "mean_time_loss_completed": 185.96321016166283,
+  "mean_waiting_time": 143.71131639722864,
+  "vehicles_per_hour": 866.0,
+  "total_co2_kg": 276.29721614000005,
+  "mean_co2_g_per_vehicle": 638.0998063279446
+}

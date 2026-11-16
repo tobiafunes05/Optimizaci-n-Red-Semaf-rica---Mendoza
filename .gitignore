@@ -1,0 +1,16 @@
+# Archivos temporales de evaluaciones de SUMO (superan los 100 MB de limite de GitHub)
+**/net_eval_*.xml
+**/net_adaptive_*.xml
+**/net_baseline_fixed_*.xml
+**/net_rl_*.xml
+**/tripinfo_*.xml
+**/stats_*.xml
+**/queue_*.xml
+
+# Red descomprimida (~250 MB); en el repo se versiona osm.net.xml.gz (~28 MB)
+# y ga_lib.py la descomprime automaticamente al ejecutar cualquier script
+**/osm.net.xml
+
+# Cache de Python
+**/__pycache__/
+*.py[cod]
